@@ -1,2 +1,2 @@
 # gabrielhtalves.github.io
-Portifólio de trabalhos e estudos
+Portfólio de trabalhos e estudos

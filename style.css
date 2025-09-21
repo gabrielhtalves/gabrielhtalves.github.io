@@ -84,7 +84,7 @@ nav a:hover {
 main {
     background-color: var(--cor03);
     color: lightgray;
-    width: 450px;
+    width: 400px;
     padding: 10px;
     margin: auto;
 }

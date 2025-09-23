@@ -98,7 +98,8 @@ main h2 {
 }
 
 main a.github {
-    margin: auto;
+    margin-left: 50px;
+    padding: 5px;
 }
 
 main > div > a {
